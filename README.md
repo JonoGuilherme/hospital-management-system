@@ -46,5 +46,3 @@ object-oriented design and data structures.
 - Control flow and loops
 
 ---
-
-## 📁 Project Structure
